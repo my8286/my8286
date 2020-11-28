@@ -15,7 +15,7 @@
 <img style="margin-top:0px" width=350 height=200 alt="Night Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=my8286&layout=compact&langs_count=10" align="right"/>
 
 - 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Macine Learning and Blockchain Technology
+- 🌱 I’m currently learning Machine Learning and Blockchain Technology
 - 👯 I’m looking to collaborate on with other content creators
 - ⚡ Fun fact: I love to play cricket and cycling.
 
